@@ -9,3 +9,4 @@
 ![Screenshot from 2025-01-11 18-44-57](https://github.com/user-attachments/assets/b5523b1f-eb60-4317-87e4-732e5263cde4)
 ![Screenshot from 2025-01-11 18-45-15](https://github.com/user-attachments/assets/071a00a5-91d8-485d-8847-52bdbee771f7)
 Это основа и база для создания плэйбуков начинающему девопс
+/
